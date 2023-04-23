@@ -6,7 +6,7 @@ Config files for my GitHub profile.
 </a>
 
 
-## 💫 About Me:
+##  About Me:
  🔭 I’m currently working on Web Dev Projects.<br>
  👯 I’m looking to collaborate on FullStack Projects.<br> 
  👨‍💻 I’m currently learning ReactJS and NodeJS.<br>
@@ -21,14 +21,14 @@ Config files for my GitHub profile.
 
 ## 📊 GitHub Stats:
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ruturaj1009&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="RuturajSahu" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ruturaj1009&theme=tokyonight&hide_border=false" alt="RuturajSahu" /></p>
-<p align="center" margin="10"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruturaj1009&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_progress=true" alt="RuturajSahu" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Debiprasadbarik&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Debi Prasad Barik" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Debiprasadbarik&theme=tokyonight&hide_border=false" alt="Debi Prasad Barik" /></p>
+<p align="center" margin="10"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debiprasadbarik&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_progress=true" alt="Debi Prasad Barik" /></p>
 
 
 ## 📈 Activity Graph
-<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ruturaj1009&bg_color=1a1b27&color=37bcad&line=6fa4fc&point=37bcad&area=true&hide_border=true" alt="activitygraph"/><p/>
+<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Debiprasadbarik&bg_color=1a1b27&color=37bcad&line=6fa4fc&point=37bcad&area=true&hide_border=true" alt="activitygraph"/><p/>
 
 
 
-<p align="center"><img align="center" src="https://visitcount.itsvg.in/api?id=ruturaj1009&icon=0&color=1" alt="profile_view" /> </p>
+<p align="center"><img align="center" src="https://visitcount.itsvg.in/api?id=Debiprasadbarik&icon=0&color=1" alt="profile_view" /> </p>
