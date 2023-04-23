@@ -1,4 +1,4 @@
-# Debi-Dexterity
+# Debiprasadbarik
 Config files for my GitHub profile.
 <h1 align="center">Hi 👋, I'm Debi Prasad Barik</h1>
 <a href="https://debiprasadbarik.github.io/personal/"/>
